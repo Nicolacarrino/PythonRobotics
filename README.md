@@ -81,7 +81,7 @@ Features:
 
 10. Easy to read for understanding each algorithm's basic idea.
 
-2. Widely used and practical algorithms are selected.
+20. Widely used and practical algorithms are selected.
 
 3. Minimum dependency.
 
