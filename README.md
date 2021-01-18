@@ -79,7 +79,7 @@ This is a Python code collection of robotics algorithms, especially for autonomo
 
 Features:
 
-1. Easy to read for understanding each algorithm's basic idea.
+10. Easy to read for understanding each algorithm's basic idea.
 
 2. Widely used and practical algorithms are selected.
 
